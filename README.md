@@ -92,7 +92,7 @@ I'm **Sulfikar P.K.**, an **Embedded Engineer** with **3+ years of experience** 
 | **Project** | **Description** |
 |-------------|-----------------|
 | **[ Reverse Vending Machine]( https://github.com/Sulfikarpk/Reverse_vending-_machine )** | A smart Reverse Vending Machine that uses Raspberry Pi, Arduino Mega, and ESP8266 to detect, classify, and sort recyclable items using image processing. The system includes an automated reward mechanism for plastic bottles and IoT-based bin monitoring for efficient waste management. |
-| **[Reverse Vending Machine](https://github.com/YOUR_USERNAME)** | Raspberry Pi, Arduino, Image Processing, OpenCV, Ultrasonic Sensor |
+| **[Wireless Bluetooth Gesture Controlled Car](https://github.com/Sulfikarpk/wirless_bluetooth_controlled_car)** | Developed a gesture-controlled Bluetooth car using Arduino UNO, MPU6050, and HC-05 modules. The system uses hand motion sensing and wireless communication to control the direction of the robotic vehicle in real time. |
 | **[Trifold Fusion](https://github.com/YOUR_USERNAME)** | Rotating LED Display showcased at COMEX Oman |
 | **[Flight Simulator Platform](https://github.com/YOUR_USERNAME)** | ESP32-based vibration system for World Defense Show |
 | **[Interactive Gaming Systems](https://github.com/YOUR_USERNAME)** | ESP32-based interactive exhibition games |
