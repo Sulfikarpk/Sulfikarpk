@@ -13,7 +13,7 @@ I'm **Sulfikar P.K.**, an **Embedded Engineer** with **3+ years of experience** 
 - **Embedded Engineer** | **Embedded Linux Developer** | **Firmware Engineer**
 - 3+ years of experience in Embedded Systems, Electronics, Robotics, and Automation.
 - Experienced in Firmware Development, Embedded Linux, Hardware Design, PCB Design, Linux Applications, Device Drivers, and Real-Time Systems.
-- Worked on international engineering projects showcased at **GITEX Global**, **ADIPEC**, **COMEX Oman**, **World Defense Show**, and **Cityscape Global**.
+- Worked on international interactive technical engineering projects showcased at **GITEX Global**, **ADIPEC**, **COMEX Oman**, **World Defense Show**, and **Cityscape Global**.
 - Passionate about building intelligent embedded products from concept to deployment.
 - Currently learning **Linux Kernel Development**, **Yocto**, **RTOS**, and **Advanced Embedded Systems**.
 
