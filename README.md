@@ -97,6 +97,13 @@ I'm **Sulfikar P.K.**, an **Embedded Engineer** with **3+ years of experience** 
 | **[Flight Simulator Platform](https://github.com/YOUR_USERNAME)** | ESP32-based vibration system for World Defense Show |
 | **[Interactive Gaming Systems](https://github.com/YOUR_USERNAME)** | ESP32-based interactive exhibition games |
 | **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
 
 ---
 
