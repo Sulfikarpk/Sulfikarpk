@@ -94,9 +94,7 @@ I'm **Sulfikar P.K.**, an **Embedded Engineer** with **3+ years of experience** 
 | **[ Reverse Vending Machine]( https://github.com/Sulfikarpk/Reverse_vending-_machine )** | A smart Reverse Vending Machine that uses Raspberry Pi, Arduino Mega, and ESP8266 to detect, classify, and sort recyclable items using image processing. The system includes an automated reward mechanism for plastic bottles and IoT-based bin monitoring for efficient waste management. |
 | **[Wireless Bluetooth Gesture Controlled Car](https://github.com/Sulfikarpk/wirless_bluetooth_controlled_car)** | Developed a gesture-controlled Bluetooth car using Arduino UNO, MPU6050, and HC-05 modules. The system uses hand motion sensing and wireless communication to control the direction of the robotic vehicle in real time. |
 | **[Smart_cart_system](https://github.com/Sulfikarpk/samrt_cart_system/blob/main/README.md)** | n intelligent shopping cart system using Arduino UNO, RFID, LCD I2C, and ultrasonic sensors to provide automated product scanning, price calculation, and user budget management. The cart follows the user automatically and provides alerts when the spending limit is exceeded. |
-| **[Flight Simulator Platform](https://github.com/YOUR_USERNAME)** | ESP32-based vibration system for World Defense Show |
-| **[Interactive Gaming Systems](https://github.com/YOUR_USERNAME)** | ESP32-based interactive exhibition games |
-| **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
+| **[Industrial Robotics Projects](https://github.com/Sulfikarpk/Industiral_robotic_arm_project)** | KUKA, Kawasaki & Dobot robotic integrations |
 | **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
 | **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
 | **[Industrial Robotics Projects](https://github.com/YOUR_USERNAME)** | KUKA, Kawasaki & Dobot robotic integrations |
