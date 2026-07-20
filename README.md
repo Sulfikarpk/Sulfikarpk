@@ -23,7 +23,7 @@ I'm **Sulfikar P.K.**, an **Embedded Engineer** with **3+ years of experience** 
 
 ---
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Key Projects I have done </h2>
 
 | **Project** | **Description** |
 |-------------|-----------------|
