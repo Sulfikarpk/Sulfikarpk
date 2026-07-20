@@ -20,7 +20,7 @@ I'm **Sulfikar P.K.**, an **Embedded Engineer** with **3+ years of experience** 
 </details>
 
 <br>
-https://github.com/Sulfikarpk/Interactive-Gun-Shooting-system
+
 ---
 <h2 align="left">🚀 Featured Projects</h2>
 
